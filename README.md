@@ -1,4 +1,4 @@
-[![commit combo](https://commitcombo.com/get?user=iamzin&theme=BasicGray-mini)](https://github.com/devxb/commitcombo)
+[![commitcombo](https://commitcombo.com/get?user=iamzin&theme=BasicGray-mini)](https://github.com/devxb/commitcombo)
 
 <!--
 **iamzin/iamzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
