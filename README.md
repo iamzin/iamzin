@@ -1,5 +1,5 @@
 <!-- CommitCombo: 1일 1커밋 유지 횟수 -->
-[![commitcombo](http://commitcombo.com/get?user=iamzin&theme=BasicGray-mini)](https://github.com/devxb/CommitCombo)
+<!-- [![commitcombo](http://commitcombo.com/get?user=iamzin&theme=BasicGray-mini)](https://github.com/devxb/CommitCombo) -->
 
 <!--
 **iamzin/iamzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamzin&show_icons=true&theme=cobalt)
